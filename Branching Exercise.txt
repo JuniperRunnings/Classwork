@@ -1,0 +1,5 @@
+1) git checkout -b
+2) fast forward only if no commits on original branch
+3) git checkout
+4) git branch -D
+5) When Git can't determine which file/folder to choose b/c different commits to same file.
